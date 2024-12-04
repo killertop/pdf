@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.linduomi.com/tags/index-1.html</loc>
+    
+    <lastmod>2024-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.linduomi.com/pdf/2.html</loc>
+    
+    <lastmod>2024-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.linduomi.com/tags/index.html</loc>
     
     <lastmod>2024-12-04</lastmod>
     
@@ -27,6 +45,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://www.linduomi.com/tags/AI/</loc>
+    <lastmod>2024-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.linduomi.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2024-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.linduomi.com/tags/%E6%B1%BD%E8%BD%A6/</loc>
+    <lastmod>2024-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
